@@ -61,7 +61,7 @@ Filter posts that match regex. Prefix your filter with "text:", "name:", "id:", 
  <li>Install Tampermonkey for <a href="https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo?  hl=en">Chrome</a>/<a href="https://addons.mozilla.org/en-US/firefox/addon/tampermonkey/">Firefox</a></li>
  <li><a href="../../raw/master/meguca.user.js">Click here</a>
 </ul>
-Sometimes after an update the script may stop working.  In that case, try uninstalling the scrip then reinstalling it.
+Sometimes after an update the script may stop working.  In that case, try uninstalling the script then reinstalling it.
 
 ## Alt-Installation
 
